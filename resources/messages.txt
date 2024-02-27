@@ -1,0 +1,6 @@
+{"email":"amy@email.com","message":"Hi","IP":"143.119.66.25"} 
+{"email":"bob@email.com","message":"I love my job!", "IP":"141.78.73.72"} 
+
+{"name":null,"email":"ralphbantillo96@gmail.com","message":"hello","IP":"172.17.0.1"}
+{"name":null,"email":"irma0716@yahoo.com","message":"was good","IP":"172.17.0.1"}
+{"name":null,"email":"pradakc20@gmail.com","message":"hehehehe","IP":"172.17.0.1"}
